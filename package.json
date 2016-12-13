@@ -1,0 +1,10 @@
+{
+  "name": "hyper-idlefingers",
+  "version": "1.0.0",
+  "description": "Hyper theme & config",
+  "main": "index.js",
+  "repository": "https://github.com/idlefingers/hyper-idlefingers.git",
+  "keywords": [],
+  "author": "Damien Timewell",
+  "license": "MIT"
+}
